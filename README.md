@@ -12,6 +12,7 @@ This is a Hello World program. I created this program to demonstrate the use of 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+List of websites that helped me in this project
+
 * [Visual Studio Code / GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Python 3.9.4 Reference  Manual](https://docs.python.org/3/reference/)
