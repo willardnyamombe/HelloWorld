@@ -10,10 +10,6 @@ This is a Hello World program. I created this program to demonstrate the use of 
 * Python 3.9.4 64-bit
 * Git / GitHub
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
